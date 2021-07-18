@@ -1,0 +1,3 @@
+It is important to catch the data before commiting anything !!
+
+git rm -r --cached <dir>
