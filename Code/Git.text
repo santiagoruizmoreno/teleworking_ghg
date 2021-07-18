@@ -1,3 +1,5 @@
 It is important to catch the data before commiting anything !!
+You just got to earse and clone again the repository and run the command below,
+by chanign <dir> by the directorie's path
 
 git rm -r --cached <dir>
