@@ -1,5 +1,7 @@
-It is important to catch the data before commiting anything !!
-You just got to earse and clone again the repository and run the command below,
-by chanign <dir> by the directorie's path
+$$ It is important to catch the data before commiting anything !!
+$$ You just got to erase and clone again the repository and run the command below,
+$$ by chanign <dir> by the directorie's path
 
 git rm -r --cached <dir>
+
+$$ It is not pertinent for we are not going to sync the databases anymore. It is more efficient that way
